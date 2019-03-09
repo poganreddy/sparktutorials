@@ -1,9 +1,0 @@
-This file testing in git
-modified`:wq!
-
-i learning spark scala and git tutorials with sample example, let me try it today how will it work?
-
-ssssssss
- useradd -G devs -d /home/gituser -m -s /bin/bash gituser
-
-
