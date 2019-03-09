@@ -1,3 +1,0 @@
-This file testing in git
-modified`:wq!
-
