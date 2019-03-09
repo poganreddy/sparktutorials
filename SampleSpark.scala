@@ -1,1 +1,2 @@
-val s = spark.sql("select * from sample")
+val s = spark.sql("select * from samples")
+s.printSchema
