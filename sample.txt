@@ -1,3 +1,5 @@
 i learning spark scala and git tutorials with sample example, let me try it today how will it work?
 This file testing in git
 modified`:wq!
+
+I haved added some more features for this requirement
