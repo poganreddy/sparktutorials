@@ -1,2 +1,3 @@
 this is second file, need to verify in git how is it working in master branch
 added second line for testing purpose,let me checkout output
+we added new line for testing
